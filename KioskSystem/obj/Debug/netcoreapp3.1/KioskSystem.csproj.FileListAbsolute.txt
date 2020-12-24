@@ -1,0 +1,14 @@
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KioskSystem\bin\Debug\netcoreapp3.1\KioskSystem.exe
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KioskSystem\bin\Debug\netcoreapp3.1\KioskSystem.deps.json
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KioskSystem\bin\Debug\netcoreapp3.1\KioskSystem.runtimeconfig.json
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KioskSystem\bin\Debug\netcoreapp3.1\KioskSystem.runtimeconfig.dev.json
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KioskSystem\bin\Debug\netcoreapp3.1\KioskSystem.dll
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KioskSystem\bin\Debug\netcoreapp3.1\KioskSystem.pdb
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KioskSystem\bin\Debug\netcoreapp3.1\KiskLibrary.dll
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KioskSystem\bin\Debug\netcoreapp3.1\KiskLibrary.pdb
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KioskSystem\obj\Debug\netcoreapp3.1\KioskSystem.csprojAssemblyReference.cache
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KioskSystem\obj\Debug\netcoreapp3.1\KioskSystem.AssemblyInfoInputs.cache
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KioskSystem\obj\Debug\netcoreapp3.1\KioskSystem.AssemblyInfo.cs
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KioskSystem\obj\Debug\netcoreapp3.1\KioskSystem.csproj.CopyComplete
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KioskSystem\obj\Debug\netcoreapp3.1\KioskSystem.dll
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KioskSystem\obj\Debug\netcoreapp3.1\KioskSystem.pdb

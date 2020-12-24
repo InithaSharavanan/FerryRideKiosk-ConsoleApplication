@@ -1,0 +1,8 @@
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KiskLibrary\bin\Debug\netstandard2.0\KiskLibrary.deps.json
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KiskLibrary\bin\Debug\netstandard2.0\KiskLibrary.dll
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KiskLibrary\bin\Debug\netstandard2.0\KiskLibrary.pdb
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KiskLibrary\obj\Debug\netstandard2.0\KiskLibrary.csprojAssemblyReference.cache
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KiskLibrary\obj\Debug\netstandard2.0\KiskLibrary.AssemblyInfoInputs.cache
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KiskLibrary\obj\Debug\netstandard2.0\KiskLibrary.AssemblyInfo.cs
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KiskLibrary\obj\Debug\netstandard2.0\KiskLibrary.dll
+C:\Users\asini\OneDrive\Desktop\MIS - Initha\C#\Test 2\Test 2\KiskLibrary\obj\Debug\netstandard2.0\KiskLibrary.pdb
